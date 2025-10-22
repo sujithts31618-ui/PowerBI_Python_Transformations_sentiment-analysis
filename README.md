@@ -3,7 +3,7 @@ Python scripts demonstrating data transformations, text cleaning, and advanced S
 
 
 ## 🧠 Project Overview
-This project analyzes **customer feedback for Tataplay** to measure sentiment and satisfaction.  
+This project analyzes **customer feedback** to measure sentiment and satisfaction.  
 It identifies the **volume of Positive, Negative, and Neutral feedback** and visualizes it in **Power BI** dashboards.
 
 ## 🧩 Data Flow
@@ -18,8 +18,7 @@ It identifies the **volume of Positive, Negative, and Neutral feedback** and vis
 4. **Power BI Report**:
    - Visualizes sentiment distribution and trends
   
-## 🧰 Script Description (`text_processing.py`)
-```python
+## 🧰 Script Description (`text_processing.py`)```python
 # Steps:
 # 1. Clean and normalize text
 # 2. Correct common spelling issues
